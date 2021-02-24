@@ -1,0 +1,3 @@
+com/seata/config/TxAspect.class
+com/seata/dto/Response.class
+com/seata/config/DozerMapper.class
